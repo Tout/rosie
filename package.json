@@ -1,0 +1,14 @@
+{
+  "author": "Brandon Keepers <bkeepers@github.com>",
+  "name": "rosie",
+  "description": "factory for building JavaScript objects.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://git@github.com/Tout/filtered_stream.git"
+  },
+  "main": "./lib/rosie.js",
+  "engines": {
+    "node": "~0.6.19"
+  }
+}
