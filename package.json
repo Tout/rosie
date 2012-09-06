@@ -6,6 +6,6 @@
   "repository": { "type": "git", "url": "git://github.com/bkeepers/rosie.git" },
   "homepage": "https://github.com/bkeepers/rosie",
   "keywords": ["test", "factory", "node"],
-  "main": "./lib/rosie.js",
+  "main": "./src/rosie.js",
   "engines": { "node": ">0.4.0" }
 }
